@@ -1,3 +1,4 @@
+pacman -Syu --noconfirm
 pacman -Syu\
     --needed \
     --noconfirm \
