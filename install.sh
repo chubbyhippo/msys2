@@ -1,5 +1,6 @@
 pacman -Syu\
     --needed \
+    --noconfirm \
     autoconf \
     autogen \
     automake \
