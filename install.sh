@@ -85,4 +85,5 @@ pacman -S\
     tar \
     texinfo \
     tmux \
+    vim \
     wget
