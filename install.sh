@@ -71,6 +71,7 @@ pacman -S\
     mingw-w64-x86_64-pango \
     mingw-w64-x86_64-pixman \
     mingw-w64-x86_64-ripgrep \
+    mingw-w64-x86_64-starship \
     mingw-w64-x86_64-winpthreads \
     mingw-w64-x86_64-xpm-nox \
     mingw-w64-x86_64-xz \
