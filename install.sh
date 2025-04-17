@@ -63,6 +63,7 @@ pacman -S\
     mingw-w64-x86_64-libunistring \
     mingw-w64-x86_64-libwinpthread-git \
     mingw-w64-x86_64-libxml2 \
+    mingw-w64-x86_64-markdown \
     mingw-w64-x86_64-mpc \
     mingw-w64-x86_64-mpfr \
     mingw-w64-x86_64-nettle \
