@@ -33,6 +33,7 @@ pacman -S\
     mingw-w64-x86_64-crt-git \
     mingw-w64-x86_64-dbus \
     mingw-w64-x86_64-expat \
+    mingw-w64-x86_64-fd \
     mingw-w64-x86_64-fontconfig \
     mingw-w64-x86_64-freetype \
     mingw-w64-x86_64-gcc \
