@@ -1,5 +1,4 @@
-pacman -Syu --noconfirm
-pacman -Syu\
+pacman -S\
     --needed \
     --noconfirm \
     autoconf \
