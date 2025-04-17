@@ -50,6 +50,7 @@ pacman -S\
     mingw-w64-x86_64-isl \
     mingw-w64-x86_64-jansson \
     mingw-w64-x86_64-jbigkit \
+    mingw-w64-x86_64-lcms2 \
     mingw-w64-x86_64-libffi \
     mingw-w64-x86_64-libgccjit \
     mingw-w64-x86_64-libiconv \
@@ -60,9 +61,11 @@ pacman -S\
     mingw-w64-x86_64-libsystre \
     mingw-w64-x86_64-libtasn1 \
     mingw-w64-x86_64-libtiff \
+    mingw-w64-x86_64-libtree-sitter \
     mingw-w64-x86_64-libunistring \
     mingw-w64-x86_64-libwinpthread-git \
     mingw-w64-x86_64-libxml2 \
+    mingw-w64-x86_64-libwebp \
     mingw-w64-x86_64-markdown \
     mingw-w64-x86_64-mpc \
     mingw-w64-x86_64-mpfr \
@@ -71,7 +74,9 @@ pacman -S\
     mingw-w64-x86_64-pango \
     mingw-w64-x86_64-pixman \
     mingw-w64-x86_64-ripgrep \
+    mingw-w64-x86_64-sqlite3 \
     mingw-w64-x86_64-starship \
+    mingw-w64-x86_64-toolchain \
     mingw-w64-x86_64-winpthreads \
     mingw-w64-x86_64-xpm-nox \
     mingw-w64-x86_64-xz \
