@@ -5,6 +5,7 @@ pacman -S\
     autogen \
     automake \
     automake-wrapper \
+    base-devel \
     bash \
     diffutils \
     filesystem \
